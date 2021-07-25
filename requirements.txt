@@ -1,0 +1,12 @@
+numpy
+matplotlib
+deformetrica
+opencv-python
+vtk
+mayavi
+shapely
+pandas
+torchvision
+Cython
+dtaidistance
+xlsxwriter

@@ -1,0 +1,27 @@
+###########################################################
+parameter:
+attachmentType: varifold
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.25
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.6312748849150476
+std: 1.330307765957807
+min: 0.18698081830198104
+25%: 0.786294057222748
+50%: 1.2113140013092942
+75%: 1.860717623446323
+max: 7.740932885411093
+
+dynamic time warping distance between raw and reconstruct: 
+1: 59.72094921790196
+2: 66.61989324997181
+3: 20.46846358497787
+4: 58.752471355927796
+5: 55.94823709539001
+average of distance: 52.3020029008339
+
