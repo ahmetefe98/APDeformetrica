@@ -1,0 +1,224 @@
+2021-08-03 14:50:53,639 - root - ERROR - Logger has been set to: INFO
+2021-08-03 14:50:53,648 - root - INFO - OMP_NUM_THREADS was not found in environment variables. An automatic value will be set.
+2021-08-03 14:50:53,652 - root - INFO - OMP_NUM_THREADS will be set to 2
+2021-08-03 14:50:53,654 - root - INFO - >> No specified state-file. By default, Deformetrica state will by saved in file: output/deformetrica-state.p.
+2021-08-03 14:50:53,656 - root - INFO - >> Removing the pre-existing state file with same path.
+2021-08-03 14:50:53,680 - deformetrica.core.models.model_functions - INFO - >> Reading 200 initial control points from file images/mask_initial_control_points/mask_03_initial_control_points.txt.
+2021-08-03 14:50:53,681 - deformetrica.core.models.model_functions - INFO - >> Momenta initialized to zero, for 5 subjects.
+2021-08-03 14:50:53,682 - root - INFO - >> Started estimator: GradientAscent
+2021-08-03 14:50:54,196 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 0 -------------------------------------
+2021-08-03 14:50:54,197 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.654E+07 	 [ attachment = -1.654E+07 ; regularity = 0.000E+00 ]
+2021-08-03 14:50:54,198 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:50:54,200 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.065E-06   and   9.390E+05 	[ landmark_points ]
+2021-08-03 14:50:54,202 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.037E-06   and   3.293E+05 	[ momenta ]
+2021-08-03 14:50:54,484 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 1 -------------------------------------
+2021-08-03 14:50:54,486 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.606E+07 	 [ attachment = -1.606E+07 ; regularity = -1.820E+00 ]
+2021-08-03 14:50:54,976 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:50:54,978 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.597E-06   and   9.091E+05 	[ landmark_points ]
+2021-08-03 14:50:54,980 - deformetrica.core.estimators.gradient_ascent - INFO - 		4.556E-06   and   3.225E+05 	[ momenta ]
+2021-08-03 14:50:55,285 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 2 -------------------------------------
+2021-08-03 14:50:55,286 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.536E+07 	 [ attachment = -1.536E+07 ; regularity = -1.109E+01 ]
+2021-08-03 14:50:55,725 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:50:55,726 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.396E-06   and   8.651E+05 	[ landmark_points ]
+2021-08-03 14:50:55,727 - deformetrica.core.estimators.gradient_ascent - INFO - 		6.834E-06   and   3.124E+05 	[ momenta ]
+2021-08-03 14:50:56,038 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 3 -------------------------------------
+2021-08-03 14:50:56,039 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.440E+07 	 [ attachment = -1.440E+07 ; regularity = -3.849E+01 ]
+2021-08-03 14:50:56,478 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:50:56,479 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.594E-06   and   8.013E+05 	[ landmark_points ]
+2021-08-03 14:50:56,480 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.025E-05   and   2.978E+05 	[ momenta ]
+2021-08-03 14:50:56,767 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 4 -------------------------------------
+2021-08-03 14:50:56,768 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.313E+07 	 [ attachment = -1.313E+07 ; regularity = -1.062E+02 ]
+2021-08-03 14:50:57,203 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:50:57,204 - deformetrica.core.estimators.gradient_ascent - INFO - 		5.391E-06   and   7.111E+05 	[ landmark_points ]
+2021-08-03 14:50:57,206 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.538E-05   and   2.769E+05 	[ momenta ]
+2021-08-03 14:50:57,487 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 5 -------------------------------------
+2021-08-03 14:50:57,488 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.153E+07 	 [ attachment = -1.153E+07 ; regularity = -2.560E+02 ]
+2021-08-03 14:50:57,938 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:50:57,939 - deformetrica.core.estimators.gradient_ascent - INFO - 		8.087E-06   and   5.904E+05 	[ landmark_points ]
+2021-08-03 14:50:57,940 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.306E-05   and   2.483E+05 	[ momenta ]
+2021-08-03 14:50:58,269 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 6 -------------------------------------
+2021-08-03 14:50:58,270 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -9.715E+06 	 [ attachment = -9.715E+06 ; regularity = -5.562E+02 ]
+2021-08-03 14:50:58,708 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:50:58,709 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.213E-05   and   4.439E+05 	[ landmark_points ]
+2021-08-03 14:50:58,724 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.460E-05   and   2.117E+05 	[ momenta ]
+2021-08-03 14:50:59,003 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 7 -------------------------------------
+2021-08-03 14:50:59,004 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -7.880E+06 	 [ attachment = -7.879E+06 ; regularity = -1.095E+03 ]
+2021-08-03 14:50:59,442 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:50:59,443 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.820E-05   and   2.938E+05 	[ landmark_points ]
+2021-08-03 14:50:59,444 - deformetrica.core.estimators.gradient_ascent - INFO - 		5.189E-05   and   1.695E+05 	[ momenta ]
+2021-08-03 14:50:59,720 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 8 -------------------------------------
+2021-08-03 14:50:59,721 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -6.266E+06 	 [ attachment = -6.264E+06 ; regularity = -1.938E+03 ]
+2021-08-03 14:51:00,172 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:00,173 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.729E-05   and   1.736E+05 	[ landmark_points ]
+2021-08-03 14:51:00,174 - deformetrica.core.estimators.gradient_ascent - INFO - 		7.784E-05   and   1.263E+05 	[ momenta ]
+2021-08-03 14:51:00,452 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 9 -------------------------------------
+2021-08-03 14:51:00,453 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -5.038E+06 	 [ attachment = -5.035E+06 ; regularity = -3.051E+03 ]
+2021-08-03 14:51:00,919 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:00,920 - deformetrica.core.estimators.gradient_ascent - INFO - 		4.094E-05   and   1.168E+05 	[ landmark_points ]
+2021-08-03 14:51:00,921 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.168E-04   and   8.874E+04 	[ momenta ]
+2021-08-03 14:51:01,248 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 10 -------------------------------------
+2021-08-03 14:51:01,250 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -4.104E+06 	 [ attachment = -4.100E+06 ; regularity = -4.253E+03 ]
+2021-08-03 14:51:01,677 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:01,678 - deformetrica.core.estimators.gradient_ascent - INFO - 		6.141E-05   and   9.496E+04 	[ landmark_points ]
+2021-08-03 14:51:01,679 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.751E-04   and   6.944E+04 	[ momenta ]
+2021-08-03 14:51:01,980 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 11 -------------------------------------
+2021-08-03 14:51:01,981 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -3.302E+06 	 [ attachment = -3.297E+06 ; regularity = -5.616E+03 ]
+2021-08-03 14:51:02,400 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:02,401 - deformetrica.core.estimators.gradient_ascent - INFO - 		9.212E-05   and   9.272E+04 	[ landmark_points ]
+2021-08-03 14:51:02,402 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.627E-04   and   5.538E+04 	[ momenta ]
+2021-08-03 14:51:02,745 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 12 -------------------------------------
+2021-08-03 14:51:02,746 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -2.925E+06 	 [ attachment = -2.917E+06 ; regularity = -7.477E+03 ]
+2021-08-03 14:51:03,261 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:03,262 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.382E-04   and   2.229E+05 	[ landmark_points ]
+2021-08-03 14:51:03,263 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.941E-04   and   9.841E+04 	[ momenta ]
+2021-08-03 14:51:04,552 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:04,553 - deformetrica.core.estimators.gradient_ascent - INFO - 		6.909E-05   and   2.229E+05 	[ landmark_points ]
+2021-08-03 14:51:04,554 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.970E-04   and   9.841E+04 	[ momenta ]
+2021-08-03 14:51:05,598 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:05,599 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.454E-05   and   2.229E+05 	[ landmark_points ]
+2021-08-03 14:51:05,601 - deformetrica.core.estimators.gradient_ascent - INFO - 		9.852E-05   and   9.841E+04 	[ momenta ]
+2021-08-03 14:51:05,886 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 13 -------------------------------------
+2021-08-03 14:51:05,887 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -2.602E+06 	 [ attachment = -2.594E+06 ; regularity = -7.679E+03 ]
+2021-08-03 14:51:06,315 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:06,316 - deformetrica.core.estimators.gradient_ascent - INFO - 		5.182E-05   and   2.356E+05 	[ landmark_points ]
+2021-08-03 14:51:06,317 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.478E-04   and   8.187E+04 	[ momenta ]
+2021-08-03 14:51:07,131 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:07,132 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.591E-05   and   2.356E+05 	[ landmark_points ]
+2021-08-03 14:51:07,133 - deformetrica.core.estimators.gradient_ascent - INFO - 		7.389E-05   and   8.187E+04 	[ momenta ]
+2021-08-03 14:51:07,425 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 14 -------------------------------------
+2021-08-03 14:51:07,425 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -2.353E+06 	 [ attachment = -2.345E+06 ; regularity = -8.087E+03 ]
+2021-08-03 14:51:07,867 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:07,869 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.886E-05   and   1.764E+05 	[ landmark_points ]
+2021-08-03 14:51:07,869 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.108E-04   and   6.746E+04 	[ momenta ]
+2021-08-03 14:51:08,694 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 15 -------------------------------------
+2021-08-03 14:51:08,695 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -2.300E+06 	 [ attachment = -2.292E+06 ; regularity = -8.248E+03 ]
+2021-08-03 14:51:09,122 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:09,123 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.886E-05   and   2.139E+05 	[ landmark_points ]
+2021-08-03 14:51:09,124 - deformetrica.core.estimators.gradient_ascent - INFO - 		5.542E-05   and   7.708E+04 	[ momenta ]
+2021-08-03 14:51:09,941 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 16 -------------------------------------
+2021-08-03 14:51:09,942 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -2.132E+06 	 [ attachment = -2.124E+06 ; regularity = -8.516E+03 ]
+2021-08-03 14:51:10,436 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:10,437 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.943E-05   and   1.398E+05 	[ landmark_points ]
+2021-08-03 14:51:10,438 - deformetrica.core.estimators.gradient_ascent - INFO - 		5.542E-05   and   6.026E+04 	[ momenta ]
+2021-08-03 14:51:10,721 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 17 -------------------------------------
+2021-08-03 14:51:10,722 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -2.029E+06 	 [ attachment = -2.020E+06 ; regularity = -8.677E+03 ]
+2021-08-03 14:51:11,147 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:11,148 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.915E-05   and   1.101E+05 	[ landmark_points ]
+2021-08-03 14:51:11,149 - deformetrica.core.estimators.gradient_ascent - INFO - 		8.312E-05   and   4.871E+04 	[ momenta ]
+2021-08-03 14:51:11,435 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 18 -------------------------------------
+2021-08-03 14:51:11,436 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.987E+06 	 [ attachment = -1.978E+06 ; regularity = -9.004E+03 ]
+2021-08-03 14:51:11,856 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:11,857 - deformetrica.core.estimators.gradient_ascent - INFO - 		4.372E-05   and   1.749E+05 	[ landmark_points ]
+2021-08-03 14:51:11,858 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.247E-04   and   6.871E+04 	[ momenta ]
+2021-08-03 14:51:12,667 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:12,668 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.186E-05   and   1.749E+05 	[ landmark_points ]
+2021-08-03 14:51:12,669 - deformetrica.core.estimators.gradient_ascent - INFO - 		6.234E-05   and   6.871E+04 	[ momenta ]
+2021-08-03 14:51:12,938 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 19 -------------------------------------
+2021-08-03 14:51:12,939 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.918E+06 	 [ attachment = -1.909E+06 ; regularity = -9.177E+03 ]
+2021-08-03 14:51:13,351 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:13,352 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.279E-05   and   1.751E+05 	[ landmark_points ]
+2021-08-03 14:51:13,353 - deformetrica.core.estimators.gradient_ascent - INFO - 		9.351E-05   and   6.761E+04 	[ momenta ]
+2021-08-03 14:51:14,165 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 20 -------------------------------------
+2021-08-03 14:51:14,166 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.886E+06 	 [ attachment = -1.876E+06 ; regularity = -9.341E+03 ]
+2021-08-03 14:51:14,656 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:14,657 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.279E-05   and   2.028E+05 	[ landmark_points ]
+2021-08-03 14:51:14,658 - deformetrica.core.estimators.gradient_ascent - INFO - 		4.676E-05   and   7.000E+04 	[ momenta ]
+2021-08-03 14:51:14,938 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 21 -------------------------------------
+2021-08-03 14:51:14,939 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.865E+06 	 [ attachment = -1.856E+06 ; regularity = -9.468E+03 ]
+2021-08-03 14:51:15,357 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:15,358 - deformetrica.core.estimators.gradient_ascent - INFO - 		4.918E-05   and   2.238E+05 	[ landmark_points ]
+2021-08-03 14:51:15,359 - deformetrica.core.estimators.gradient_ascent - INFO - 		7.014E-05   and   7.596E+04 	[ momenta ]
+2021-08-03 14:51:16,161 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:16,162 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.459E-05   and   2.238E+05 	[ landmark_points ]
+2021-08-03 14:51:16,163 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.507E-05   and   7.596E+04 	[ momenta ]
+2021-08-03 14:51:16,444 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 22 -------------------------------------
+2021-08-03 14:51:16,445 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.743E+06 	 [ attachment = -1.734E+06 ; regularity = -9.582E+03 ]
+2021-08-03 14:51:16,872 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:16,873 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.689E-05   and   1.352E+05 	[ landmark_points ]
+2021-08-03 14:51:16,874 - deformetrica.core.estimators.gradient_ascent - INFO - 		5.260E-05   and   4.876E+04 	[ momenta ]
+2021-08-03 14:51:17,645 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 23 -------------------------------------
+2021-08-03 14:51:17,646 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.683E+06 	 [ attachment = -1.673E+06 ; regularity = -9.724E+03 ]
+2021-08-03 14:51:18,060 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:18,062 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.844E-05   and   8.855E+04 	[ landmark_points ]
+2021-08-03 14:51:18,064 - deformetrica.core.estimators.gradient_ascent - INFO - 		5.260E-05   and   3.911E+04 	[ momenta ]
+2021-08-03 14:51:18,341 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 24 -------------------------------------
+2021-08-03 14:51:18,342 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.640E+06 	 [ attachment = -1.630E+06 ; regularity = -9.868E+03 ]
+2021-08-03 14:51:18,751 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:18,753 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.767E-05   and   6.766E+04 	[ landmark_points ]
+2021-08-03 14:51:18,754 - deformetrica.core.estimators.gradient_ascent - INFO - 		7.890E-05   and   3.185E+04 	[ momenta ]
+2021-08-03 14:51:19,037 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 25 -------------------------------------
+2021-08-03 14:51:19,037 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.616E+06 	 [ attachment = -1.606E+06 ; regularity = -1.007E+04 ]
+2021-08-03 14:51:19,465 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:19,465 - deformetrica.core.estimators.gradient_ascent - INFO - 		4.150E-05   and   1.033E+05 	[ landmark_points ]
+2021-08-03 14:51:19,467 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.184E-04   and   4.241E+04 	[ momenta ]
+2021-08-03 14:51:20,266 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:20,267 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.075E-05   and   1.033E+05 	[ landmark_points ]
+2021-08-03 14:51:20,296 - deformetrica.core.estimators.gradient_ascent - INFO - 		5.918E-05   and   4.241E+04 	[ momenta ]
+2021-08-03 14:51:20,683 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 26 -------------------------------------
+2021-08-03 14:51:20,684 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.584E+06 	 [ attachment = -1.574E+06 ; regularity = -1.022E+04 ]
+2021-08-03 14:51:21,123 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:21,124 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.112E-05   and   9.995E+04 	[ landmark_points ]
+2021-08-03 14:51:21,126 - deformetrica.core.estimators.gradient_ascent - INFO - 		8.876E-05   and   4.050E+04 	[ momenta ]
+2021-08-03 14:51:21,941 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 27 -------------------------------------
+2021-08-03 14:51:21,942 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.563E+06 	 [ attachment = -1.552E+06 ; regularity = -1.031E+04 ]
+2021-08-03 14:51:22,388 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:22,389 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.112E-05   and   1.092E+05 	[ landmark_points ]
+2021-08-03 14:51:22,390 - deformetrica.core.estimators.gradient_ascent - INFO - 		4.438E-05   and   4.060E+04 	[ momenta ]
+2021-08-03 14:51:22,671 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 28 -------------------------------------
+2021-08-03 14:51:22,672 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.544E+06 	 [ attachment = -1.533E+06 ; regularity = -1.042E+04 ]
+2021-08-03 14:51:23,110 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:23,112 - deformetrica.core.estimators.gradient_ascent - INFO - 		4.669E-05   and   1.159E+05 	[ landmark_points ]
+2021-08-03 14:51:23,113 - deformetrica.core.estimators.gradient_ascent - INFO - 		6.657E-05   and   4.244E+04 	[ momenta ]
+2021-08-03 14:51:23,892 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 29 -------------------------------------
+2021-08-03 14:51:23,893 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.527E+06 	 [ attachment = -1.516E+06 ; regularity = -1.057E+04 ]
+2021-08-03 14:51:24,322 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:24,324 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.334E-05   and   1.299E+05 	[ landmark_points ]
+2021-08-03 14:51:24,325 - deformetrica.core.estimators.gradient_ascent - INFO - 		6.657E-05   and   4.998E+04 	[ momenta ]
+2021-08-03 14:51:24,587 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 30 -------------------------------------
+2021-08-03 14:51:24,588 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.516E+06 	 [ attachment = -1.505E+06 ; regularity = -1.071E+04 ]
+2021-08-03 14:51:25,010 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:25,012 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.501E-05   and   1.535E+05 	[ landmark_points ]
+2021-08-03 14:51:25,013 - deformetrica.core.estimators.gradient_ascent - INFO - 		9.986E-05   and   5.766E+04 	[ momenta ]
+2021-08-03 14:51:25,804 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:25,805 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.751E-05   and   1.535E+05 	[ landmark_points ]
+2021-08-03 14:51:25,836 - deformetrica.core.estimators.gradient_ascent - INFO - 		4.993E-05   and   5.766E+04 	[ momenta ]
+2021-08-03 14:51:26,195 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 31 -------------------------------------
+2021-08-03 14:51:26,196 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.447E+06 	 [ attachment = -1.437E+06 ; regularity = -1.082E+04 ]
+2021-08-03 14:51:26,615 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:26,616 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.626E-05   and   9.725E+04 	[ landmark_points ]
+2021-08-03 14:51:26,617 - deformetrica.core.estimators.gradient_ascent - INFO - 		7.490E-05   and   4.065E+04 	[ momenta ]
+2021-08-03 14:51:26,904 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 32 -------------------------------------
+2021-08-03 14:51:26,905 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.441E+06 	 [ attachment = -1.430E+06 ; regularity = -1.098E+04 ]
+2021-08-03 14:51:27,351 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:27,353 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.939E-05   and   1.421E+05 	[ landmark_points ]
+2021-08-03 14:51:27,355 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.123E-04   and   5.449E+04 	[ momenta ]
+2021-08-03 14:51:28,217 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:28,218 - deformetrica.core.estimators.gradient_ascent - INFO - 		1.970E-05   and   1.421E+05 	[ landmark_points ]
+2021-08-03 14:51:28,219 - deformetrica.core.estimators.gradient_ascent - INFO - 		5.617E-05   and   5.449E+04 	[ momenta ]
+2021-08-03 14:51:28,495 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 33 -------------------------------------
+2021-08-03 14:51:28,495 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.392E+06 	 [ attachment = -1.381E+06 ; regularity = -1.109E+04 ]
+2021-08-03 14:51:28,929 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:28,930 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.954E-05   and   1.193E+05 	[ landmark_points ]
+2021-08-03 14:51:28,931 - deformetrica.core.estimators.gradient_ascent - INFO - 		8.426E-05   and   4.731E+04 	[ momenta ]
+2021-08-03 14:51:29,784 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 34 -------------------------------------
+2021-08-03 14:51:29,785 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.363E+06 	 [ attachment = -1.352E+06 ; regularity = -1.118E+04 ]
+2021-08-03 14:51:30,235 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:30,236 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.954E-05   and   1.183E+05 	[ landmark_points ]
+2021-08-03 14:51:30,237 - deformetrica.core.estimators.gradient_ascent - INFO - 		4.213E-05   and   4.263E+04 	[ momenta ]
+2021-08-03 14:51:30,522 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 35 -------------------------------------
+2021-08-03 14:51:30,523 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.336E+06 	 [ attachment = -1.325E+06 ; regularity = -1.126E+04 ]
+2021-08-03 14:51:31,017 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:31,018 - deformetrica.core.estimators.gradient_ascent - INFO - 		4.432E-05   and   1.111E+05 	[ landmark_points ]
+2021-08-03 14:51:31,048 - deformetrica.core.estimators.gradient_ascent - INFO - 		6.319E-05   and   4.111E+04 	[ momenta ]
+2021-08-03 14:51:31,999 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 36 -------------------------------------
+2021-08-03 14:51:32,001 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.317E+06 	 [ attachment = -1.306E+06 ; regularity = -1.138E+04 ]
+2021-08-03 14:51:32,461 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:32,462 - deformetrica.core.estimators.gradient_ascent - INFO - 		2.216E-05   and   1.151E+05 	[ landmark_points ]
+2021-08-03 14:51:32,463 - deformetrica.core.estimators.gradient_ascent - INFO - 		6.319E-05   and   4.361E+04 	[ momenta ]
+2021-08-03 14:51:32,756 - deformetrica.core.estimators.gradient_ascent - INFO - ------------------------------------- Iteration: 37 -------------------------------------
+2021-08-03 14:51:32,757 - deformetrica.core.estimators.gradient_ascent - INFO - >> Log-likelihood = -1.301E+06 	 [ attachment = -1.290E+06 ; regularity = -1.149E+04 ]
+2021-08-03 14:51:33,192 - deformetrica.core.estimators.gradient_ascent - INFO - >> Step size and gradient norm: 
+2021-08-03 14:51:33,194 - deformetrica.core.estimators.gradient_ascent - INFO - 		3.324E-05   and   1.223E+05 	[ landmark_points ]
+2021-08-03 14:51:33,195 - deformetrica.core.estimators.gradient_ascent - INFO - 		9.479E-05   and   4.637E+04 	[ momenta ]
+2021-08-03 14:51:34,093 - deformetrica.core.estimators.gradient_ascent - INFO - Tolerance threshold met. Stopping the optimization process.
+2021-08-03 14:51:34,599 - root - INFO - >> Estimation took: 40 seconds

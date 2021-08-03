@@ -1,6 +1,411 @@
 ###########################################################
 parameter:
-attachmentType: varifold
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 20
+noiseStd: 1
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.5887185320054763
+std: 0.471979281507125
+min: 0.046272872157331835
+25%: 0.274438893189625
+50%: 0.43886723910273695
+75%: 0.7411880986441501
+max: 2.7612733070674587
+
+dynamic time warping distance between raw and reconstruct: 
+1: 102.29923170085097
+2: 101.47281207084023
+3: 30.194949123709893
+4: 93.35345989653362
+5: 103.11324641259398
+average of distance: 86.08673984090574
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 20
+deformationKernelWidth: 20
+noiseStd: 1
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.4292760177858129
+std: 0.353608739666972
+min: 0.018859922694747178
+25%: 0.21157968196204235
+50%: 0.3163522927234641
+75%: 0.5175982325128761
+max: 2.1005125281826365
+
+dynamic time warping distance between raw and reconstruct: 
+1: 124.05002782249153
+2: 104.8207745714291
+3: 27.507301675948813
+4: 98.84896845695201
+5: 103.92232718494432
+average of distance: 91.82987994235314
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 30
+deformationKernelWidth: 20
+noiseStd: 1
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.33777151126088256
+std: 0.2909835637584124
+min: 0.04738046809327816
+25%: 0.16921324966014198
+50%: 0.23522875424578193
+75%: 0.3833091584538552
+max: 1.7286513222044013
+
+dynamic time warping distance between raw and reconstruct: 
+1: 144.25552774161065
+2: 113.6212963885194
+3: 23.271955970267722
+4: 112.04720180795071
+5: 114.90253974540384
+average of distance: 101.61970433075047
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 40
+deformationKernelWidth: 20
+noiseStd: 1
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.3024942221735128
+std: 0.2627477891247704
+min: 0.020745753682981906
+25%: 0.13157169500847468
+50%: 0.20105900574062724
+75%: 0.3754090227396091
+max: 1.4211817530570914
+
+dynamic time warping distance between raw and reconstruct: 
+1: 157.64960381804866
+2: 119.11127859641626
+3: 23.593207017741836
+4: 118.19365569369681
+5: 122.24129884995916
+average of distance: 108.15780879517256
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 50
+deformationKernelWidth: 20
+noiseStd: 1
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.2804953288103663
+std: 0.25037327734507525
+min: 0.02117683614358038
+25%: 0.11968578670047
+50%: 0.1837314863869393
+75%: 0.3464344490292611
+max: 1.2678550889143925
+
+dynamic time warping distance between raw and reconstruct: 
+1: 168.60361543465757
+2: 124.52670800527903
+3: 26.950587825864126
+4: 124.57046661256413
+5: 128.14283323064703
+average of distance: 114.5588422218024
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 1
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.892030879732049
+std: 0.7377772631112365
+min: 0.09710802134222465
+25%: 0.4271829940915115
+50%: 0.658248370586374
+75%: 0.9917952607623188
+max: 3.9942436640136343
+
+dynamic time warping distance between raw and reconstruct: 
+1: 123.76102099205922
+2: 89.39529934112412
+3: 25.987490019006202
+4: 88.99041811071746
+5: 94.15318620653049
+average of distance: 84.4574829338875
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 20
+noiseStd: 1
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.5887185320054763
+std: 0.471979281507125
+min: 0.046272872157331835
+25%: 0.274438893189625
+50%: 0.43886723910273695
+75%: 0.7411880986441501
+max: 2.7612733070674587
+
+dynamic time warping distance between raw and reconstruct: 
+1: 102.29923170085097
+2: 101.47281207084023
+3: 30.194949123709893
+4: 93.35345989653362
+5: 103.11324641259398
+average of distance: 86.08673984090574
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 30
+noiseStd: 1
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.3554862163754669
+std: 0.17841629155332395
+min: 0.09087534650436309
+25%: 0.22330278119342237
+50%: 0.3070176243931716
+75%: 0.4507632792091697
+max: 0.9017329627416293
+
+dynamic time warping distance between raw and reconstruct: 
+1: 150.0266982639195
+2: 118.21624474259872
+3: 28.385939678455543
+4: 109.0678497176765
+5: 122.79887577523856
+average of distance: 105.69912163557777
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 40
+noiseStd: 1
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.2550718540640367
+std: 0.11660786102926617
+min: 0.059419216230281596
+25%: 0.16032915975841325
+50%: 0.22039102838412866
+75%: 0.3290918371166194
+max: 0.5529805297075563
+
+dynamic time warping distance between raw and reconstruct: 
+1: 176.2531609629972
+2: 124.48724159420928
+3: 26.819854246301794
+4: 117.5571683488479
+5: 132.35744795007318
+average of distance: 115.49497462048586
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 50
+noiseStd: 1
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.19733449832477098
+std: 0.09193725674496392
+min: 0.04473063901546286
+25%: 0.13225979971010493
+50%: 0.17316843622848993
+75%: 0.251122093180504
+max: 0.5154665809088045
+
+dynamic time warping distance between raw and reconstruct: 
+1: 190.07744790332754
+2: 126.60489310790089
+3: 29.833723089621635
+4: 121.71176911359906
+5: 136.34211000307272
+average of distance: 120.91398864350438
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 2.0
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.472576667325189
+std: 0.3183436983730244
+min: 0.07656603817962072
+25%: 0.26714920582596674
+50%: 0.38661591199192036
+75%: 0.5742367417233288
+max: 2.1256309468931995
+
+dynamic time warping distance between raw and reconstruct: 
+1: 162.7892235418551
+2: 82.92033640056735
+3: 53.473993731130264
+4: 81.882102401737
+5: 98.72661246455291
+average of distance: 95.95845370796853
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 1.5
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.6295920967930297
+std: 0.45290120668544714
+min: 0.09008347025321674
+25%: 0.3392963095364781
+50%: 0.4834298929825508
+75%: 0.774270110102291
+max: 3.165921638012113
+
+dynamic time warping distance between raw and reconstruct: 
+1: 151.9482282824355
+2: 97.88669117452491
+3: 30.958586145896213
+4: 97.25930240138798
+5: 102.98769080805809
+average of distance: 96.20809976246053
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 1.0
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.892030879732049
+std: 0.7377772631112365
+min: 0.09710802134222465
+25%: 0.4271829940915115
+50%: 0.658248370586374
+75%: 0.9917952607623188
+max: 3.9942436640136343
+
+dynamic time warping distance between raw and reconstruct: 
+1: 123.76102099205922
+2: 89.39529934112412
+3: 25.987490019006202
+4: 88.99041811071746
+5: 94.15318620653049
+average of distance: 84.4574829338875
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.75
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.0226690734150337
+std: 0.8684289482433485
+min: 0.07599391610548094
+25%: 0.4968353858600695
+50%: 0.7257316349216569
+75%: 1.109842000470946
+max: 5.010140454417911
+
+dynamic time warping distance between raw and reconstruct: 
+1: 114.46129428568948
+2: 86.85154554521351
+3: 22.30185487081766
+4: 85.74977451726129
+5: 89.43604013777296
+average of distance: 79.76010187135098
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.5
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.1608251033992647
+std: 0.9527451038946612
+min: 0.2068877650770136
+25%: 0.5722737569679817
+50%: 0.8205772774806172
+75%: 1.3314297674845772
+max: 5.371680749781583
+
+dynamic time warping distance between raw and reconstruct: 
+1: 103.88520915863161
+2: 86.53379676922275
+3: 17.73872124489965
+4: 80.70179256143409
+5: 87.32643142839525
+average of distance: 75.23719023251667
+
+###########################################################
+parameter:
+attachmentType: current
 kernelWidth: 10
 deformationKernelWidth: 10
 noiseStd: 0.25
@@ -9,19 +414,316 @@ templateName: mask_03.vtk
 
 list of momenta standard deviation: 
 count: 200.0
-mean: 1.6312748849150476
-std: 1.330307765957807
-min: 0.18698081830198104
-25%: 0.786294057222748
-50%: 1.2113140013092942
-75%: 1.860717623446323
-max: 7.740932885411093
+mean: 1.2281526460161656
+std: 0.9708307695047524
+min: 0.23465823955268894
+25%: 0.6289001247729388
+50%: 0.842505208200871
+75%: 1.4916235713865564
+max: 5.364595263409837
 
 dynamic time warping distance between raw and reconstruct: 
-1: 59.72094921790196
-2: 66.61989324997181
-3: 20.46846358497787
-4: 58.752471355927796
-5: 55.94823709539001
-average of distance: 52.3020029008339
+1: 100.4358611805877
+2: 88.32689225614237
+3: 16.1386325173637
+4: 84.1697000435173
+5: 88.71459274855373
+average of distance: 75.55713574923297
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.1
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.3382625570432578
+std: 1.0599573732356566
+min: 0.2031200704709995
+25%: 0.6787288045433131
+50%: 0.921665351524212
+75%: 1.583144892198561
+max: 5.9759148569693155
+
+dynamic time warping distance between raw and reconstruct: 
+1: 91.81561096920235
+2: 85.76245070347458
+3: 16.32026985578656
+4: 78.79787715467339
+5: 85.81401523030642
+average of distance: 71.70204478268866
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.3884620886707384
+std: 1.0866101911633776
+min: 0.22293843239997838
+25%: 0.7005582470023749
+50%: 1.0075157984523169
+75%: 1.6390010324042894
+max: 6.276795028213209
+
+dynamic time warping distance between raw and reconstruct: 
+1: 86.62501706273817
+2: 83.36154534833132
+3: 16.899364518787237
+4: 76.26061393987032
+5: 84.32555753194887
+average of distance: 69.49441968033518
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 7
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.3120661461486818
+std: 1.0369144362705771
+min: 0.21590367239713895
+25%: 0.6708057933863896
+50%: 0.9360376234456701
+75%: 1.599579792549962
+max: 5.7663880033186645
+
+dynamic time warping distance between raw and reconstruct: 
+1: 94.50769489708439
+2: 86.85593020912638
+3: 16.411082341364455
+4: 79.87684604081295
+5: 87.05714352416028
+average of distance: 72.94173940250968
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 9
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.3152255052207078
+std: 1.0392318710872264
+min: 0.21535592926031352
+25%: 0.6702358981639257
+50%: 0.9363360821502696
+75%: 1.5961262993238043
+max: 5.782641046613072
+
+dynamic time warping distance between raw and reconstruct: 
+1: 94.22438410843965
+2: 86.80417410193886
+3: 16.427411462762834
+4: 79.81390575453288
+5: 87.00811341060002
+average of distance: 72.85559776765484
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.3884620886707384
+std: 1.0866101911633776
+min: 0.22293843239997838
+25%: 0.7005582470023749
+50%: 1.0075157984523169
+75%: 1.6390010324042894
+max: 6.276795028213209
+
+dynamic time warping distance between raw and reconstruct: 
+1: 86.62501706273817
+2: 83.36154534833132
+3: 16.899364518787237
+4: 76.26061393987032
+5: 84.32555753194887
+average of distance: 69.49441968033518
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 13
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.3595025608569768
+std: 1.0731497754271981
+min: 0.20329471433070231
+25%: 0.6897907668949201
+50%: 0.9570311599914378
+75%: 1.5964423552222389
+max: 6.108955378856103
+
+dynamic time warping distance between raw and reconstruct: 
+1: 90.24724302903736
+2: 84.90876000540453
+3: 16.65193227407505
+4: 77.82775471502575
+5: 85.34300423221906
+average of distance: 70.99573885115235
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 15
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.3603897711482085
+std: 1.0740481820443821
+min: 0.20343557750092733
+25%: 0.6902683293086337
+50%: 0.9579299437252236
+75%: 1.5956962767792526
+max: 6.112228707648541
+
+dynamic time warping distance between raw and reconstruct: 
+1: 90.42863105373374
+2: 84.92257617476757
+3: 16.667560523039505
+4: 77.85284011407768
+5: 85.34734328014342
+average of distance: 71.04379022915239
+
+###########################################################
+parameter:
+attachmentType: current
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.3884620886707384
+std: 1.0866101911633776
+min: 0.22293843239997838
+25%: 0.7005582470023749
+50%: 1.0075157984523169
+75%: 1.6390010324042894
+max: 6.276795028213209
+
+dynamic time warping distance between raw and reconstruct: 
+1: 86.62501706273817
+2: 83.36154534833132
+3: 16.899364518787237
+4: 76.26061393987032
+5: 84.32555753194887
+average of distance: 69.49441968033518
+
+###########################################################
+parameter:
+attachmentType: varifold
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.7568189754609869
+std: 1.3666386634951826
+min: 0.17889475616575568
+25%: 0.8497399383398375
+50%: 1.3178937037555252
+75%: 2.0162563202574564
+max: 7.777727032876133
+
+dynamic time warping distance between raw and reconstruct: 
+1: 58.99528015720691
+2: 65.38610769537314
+3: 19.907266531468363
+4: 58.1791096975447
+5: 55.409472574152474
+average of distance: 51.57544733114912
+
+###########################################################
+parameter:
+attachmentType: varifold
+kernelWidth: 10
+deformationKernelWidth: 20
+noiseStd: 0.05
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 0.7940811912789155
+std: 0.5248534026886964
+min: 0.11948439933092063
+25%: 0.4549097775849714
+50%: 0.6264142522271982
+75%: 0.935830517421803
+max: 3.210031443230931
+
+dynamic time warping distance between raw and reconstruct: 
+1: 98.03133712399189
+2: 103.5712434176543
+3: 22.15179636243272
+4: 96.60949147495816
+5: 101.74978079703855
+average of distance: 84.42272983521512
+
+###########################################################
+parameter:
+attachmentType: varifold
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.1
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.7085309235519468
+std: 1.3235153075847905
+min: 0.17739717536892796
+25%: 0.8276759210436341
+50%: 1.272898180071516
+75%: 1.947405252285804
+max: 7.640086820995414
+
+dynamic time warping distance between raw and reconstruct: 
+1: 58.95571962154199
+2: 66.00784379057686
+3: 19.90323419744312
+4: 58.16283678024298
+5: 57.908128819447995
+average of distance: 52.18755264185059
 
