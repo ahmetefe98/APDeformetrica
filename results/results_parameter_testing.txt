@@ -727,3 +727,138 @@ dynamic time warping distance between raw and reconstruct:
 5: 57.908128819447995
 average of distance: 52.18755264185059
 
+###########################################################
+parameter:
+attachmentType: varifold
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 11
+templateName: mask_01.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.3926833677141874
+std: 1.0314726918915678
+min: 0.26489787688798044
+25%: 0.7600476611763216
+50%: 1.0277075828332634
+75%: 1.772498106962496
+max: 5.33055470049103
+
+dynamic time warping distance between raw and reconstruct: 
+1: 20.272240183799003
+2: 71.62598275812971
+3: 94.10247184069144
+4: 69.1025917819341
+5: 68.15191786583149
+average of distance: 64.65104088607714
+
+###########################################################
+parameter:
+attachmentType: varifold
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 11
+templateName: mask_02.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.4373899324715347
+std: 1.1170845689556579
+min: 0.32112101507938834
+25%: 0.6902016619337479
+50%: 1.1030417905326813
+75%: 1.6429802035152223
+max: 6.431407656020065
+
+dynamic time warping distance between raw and reconstruct: 
+1: 72.64165987741085
+2: 19.79589315624266
+3: 93.30029699701637
+4: 56.11929817798953
+5: 62.38243897133723
+average of distance: 60.84791743599933
+
+###########################################################
+parameter:
+attachmentType: varifold
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 11
+templateName: mask_03.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.7568189754609869
+std: 1.3666386634951826
+min: 0.17889475616575568
+25%: 0.8497399383398375
+50%: 1.3178937037555252
+75%: 2.0162563202574564
+max: 7.777727032876133
+
+dynamic time warping distance between raw and reconstruct: 
+1: 58.99528015720691
+2: 65.38610769537314
+3: 19.907266531468363
+4: 58.1791096975447
+5: 55.409472574152474
+average of distance: 51.57544733114912
+
+###########################################################
+parameter:
+attachmentType: varifold
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 11
+templateName: mask_04.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.43388334231223
+std: 1.0149048194790486
+min: 0.3236543978383953
+25%: 0.7662460558113806
+50%: 1.144842288192387
+75%: 1.6667852167232455
+max: 6.0562791602653085
+
+dynamic time warping distance between raw and reconstruct: 
+1: 65.2162525193901
+2: 60.094306984538576
+3: 95.30408078022428
+4: 16.22260601495686
+5: 65.94857783792861
+average of distance: 60.557164827407675
+
+###########################################################
+parameter:
+attachmentType: varifold
+kernelWidth: 10
+deformationKernelWidth: 10
+noiseStd: 0.05
+numberOfTimePoints: 11
+templateName: mask_05.vtk
+
+list of momenta standard deviation: 
+count: 200.0
+mean: 1.5294790284563924
+std: 1.0835121051448278
+min: 0.2601479275466791
+25%: 0.8182787769669063
+50%: 1.1391222991510368
+75%: 1.9703321066752162
+max: 7.040165472553342
+
+dynamic time warping distance between raw and reconstruct: 
+1: 62.81028922143926
+2: 53.00087159658319
+3: 85.34230186030939
+4: 59.64942912310182
+5: 18.23559810113121
+average of distance: 55.80769798051297
+
